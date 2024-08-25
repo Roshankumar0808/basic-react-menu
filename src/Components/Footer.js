@@ -14,11 +14,11 @@ const Footer = () => {
         <div className="wave" id="wave4"></div>
       </div>
       <ul className="social_icon">
-        <li><a href="mailto:roshananand2014@gmail.com"><AiFillMail/></a></li>
-        <li><a href="https://x.com/Roshan_0808"><AiFillTwitterCircle/></a></li>
-        <li><a href="https://www.instagram.com/roshan4445/"><AiFillInstagram/></a></li>
-        <li><a href="https://www.linkedin.com/in/roshan-kumar-85a303158/"><AiFillLinkedin/></a></li>
-      </ul>
+  <li><a href="mailto:roshananand2014@gmail.com"><AiFillMail /></a></li>
+  <li><a href="https://x.com/Roshan_0808" target="_blank" rel="noopener noreferrer"><AiFillTwitterCircle /></a></li>
+  <li><a href="https://www.instagram.com/roshan4445/" target="_blank" rel="noopener noreferrer"><AiFillInstagram /></a></li>
+  <li><a href="https://www.linkedin.com/in/roshan-kumar-85a303158/" target="_blank" rel="noopener noreferrer"><AiFillLinkedin /></a></li>
+</ul>
       <p>@2024 Roshan Kumar | All Rights Reserved</p>
       <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
       <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
