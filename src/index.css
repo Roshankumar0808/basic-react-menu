@@ -2,6 +2,24 @@
 @tailwind components;
 @tailwind utilities;
 
+html, body, #root {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+.app-container {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.content-wrapper {
+    flex: 1;
+    /* Other content styling */
+}
+
 .spinner {
     width: 56px;
     height: 56px;
